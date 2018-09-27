@@ -1,0 +1,13 @@
+.data-view {
+    width: 550px;
+    min-height: 570px;
+    position: relative;
+}
+
+.controller {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+
+}
